@@ -1,4 +1,4 @@
-#topnav  {
+#topnav ul {
     text-decoration: none;
     float: left;
     color: #f2f2f2;
@@ -6,19 +6,24 @@
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-    background-color: blue;
-    text-overflow: none;
+    background-color:purple;
 }
 #landingpage{
-    background-image: url(./images/1.jpeg);
-    height: 90vh;
-    width: 100%;
+    background-image: url(./images/me.jpg);
+    height:400px ;
+    width: 400px;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
-   
+    background-size:cover;
     
 }
-ul li a{
+h1{
+    display: flex;
+    justify-content: center;
+    float:center;
+}
+ol li{
     text-decoration: none;
 }
+
+
