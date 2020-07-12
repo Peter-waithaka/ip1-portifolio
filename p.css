@@ -25,11 +25,15 @@ h1{
 ol li{
     text-decoration: none;
 }
+.two{
+    display: flex;
+    flex: column;
+}
  
    
 
 
 
-}
+
 
 
