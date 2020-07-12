@@ -10,8 +10,8 @@
 }
 #landingpage{
     background-image: url(./images/me.jpg);
-    height:400px ;
-    width: 400px;
+    height:800px ;
+    width: 1300px;
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
@@ -25,5 +25,11 @@ h1{
 ol li{
     text-decoration: none;
 }
-
+.one{
+    ;
+}
+img{
+    width: 50opx;
+    height: 700px;
+}
 
