@@ -29,7 +29,11 @@ ol li{
     ;
 }
 img{
-    width: 50opx;
-    height: 700px;
+    width: 500px;
+    height: 500px;
+}
+h4{
+    float:left;
+
 }
 
