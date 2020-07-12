@@ -28,7 +28,7 @@ ol li{
 }
 .two{
     display: flex;
-    flex: column;
+    flex: raw;
 }
  
    
