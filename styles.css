@@ -1,0 +1,40 @@
+#topnav ul{
+    text-decoration: none;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color:purple;
+    text-overflow: none;
+}
+#landingpage{
+    background-image: url(./images/me.jpg);
+    height:800px ;
+    width: 1300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    
+}
+h1{
+    display: flex;
+    justify-content: center;
+    float:center;
+}
+ol li{
+    text-decoration: none;
+}
+.two{
+    display: flex;
+    flex: raw;
+}
+ 
+   
+
+
+
+
+
+
